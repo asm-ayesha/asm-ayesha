@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **asm-ayesha/asm-ayesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hey there!  
+
+I'm Ayesha Siddika, a passionate learner stepping into the world of web development! 🚀  
+
+## 📚 My Learning Journey
+
+- ✅ **HTML** – Structure of the web  
+- ✅ **CSS** – Styling & making it look awesome  
+- 🔜 **JavaScript** – Adding life and interactivity to web pages  
+- 🔜 **MERN Stack** – Full-stack development with  
+  - **MongoDB** (Database)  
+  - **Express.js** (Backend framework)  
+  - **React.js** (Frontend library)  
+  - **Node.js** (Server-side runtime)  
+
+## 🎯 Goals
+- Build **responsive** and **interactive** websites  
+- Create **full-stack projects** from scratch  
+- Contribute to **open-source**  
+
+## 🛠️ Tech Toolbox
+- HTML5  
+- CSS3  
+- Git & GitHub  
+
+## 🌱 What's Next
+Currently diving deep into **JavaScript** and preparing to explore the **MERN stack**.  
+Excited to build real-world projects and share them here!  
+
+## 📬 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- 🌐 [Portfolio](https://yourportfolio.com)
+
+---
+
+> “The best way to predict the future is to create it.” – Abraham Lincoln
 
 
 # 💻 Tech Stack:
