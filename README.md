@@ -42,12 +42,6 @@ I'm Ayesha Siddika, a passionate learner stepping into the world of web developm
 ## 🌱 What's Next
 Currently diving deep into **JavaScript** and preparing to explore the **MERN stack**.  
 Excited to build real-world projects and share them here!  
-
-## 📬 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 🌐 [Portfolio](https://yourportfolio.com)
-
 ---
 
 > “The best way to predict the future is to create it.” – Abraham Lincoln
